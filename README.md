@@ -4,7 +4,7 @@ A Vue.js-based web application that allows users to search for contacts and view
 
 ## Prerequisites
 
-- [Node.js](v16 or higher) 
+- Node.js (v16 or higher) 
 - [npm]
 
 ## Dependencies
