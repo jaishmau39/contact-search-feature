@@ -3,7 +3,7 @@
       <h3>Contact Information</h3>
       <form>
         <label>Name:</label>
-        <input type="text" :value="fullName" disabled />
+        <input type="text" :value="fullName" disabled/>
         
         <label>Email:</label>
         <input type="email" :value="contact?.email || ''" disabled />
