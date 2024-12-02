@@ -25,7 +25,7 @@ A Vue.js-based web application that allows users to search for contacts and view
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/contact-search-feature.git
+git clone https://github.com/jaishmau39/contact-search-feature.git
 cd contact-search-feature
 ```
 
